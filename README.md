@@ -5,7 +5,7 @@ I'm Colombian, so if you don't understand some of my repos, it might be because 
 
 ### I've Contributed to:
 
-###Payday 2 Mods:
+### Payday 2 Mods:
 WolfHud - https://github.com/Kamikaze94/WolfHUD
 
 PD2 Kill Feed - https://github.com/segabl/pd2-kill-feed
@@ -15,7 +15,7 @@ Nepgearsy's Main Menu - https://github.com/mwSora/Nepgearsy-Main-Menu
 Sora HUD Reborn - https://github.com/mwSora/Sora-HUD-Reborn
 
 
-###DDLC Mods:
+### DDLC Mods:
 
 Forever and Ever - https://github.com/AlexanDDOS/fae-mod
 
