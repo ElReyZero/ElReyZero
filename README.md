@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm ElReyZero ![alt text](https://cdn.frankerfacez.com/emoticon/457124/1)
 
-<!--
-**ElReyZero/ElReyZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm studying Systems Engineering and Software Development, I know Python, Java and a bit of C. I like to contribute to translations and bug fixing for mods and projects of games that I like.
+I'm Colombian, so if you don't understand some of my repos, it might be because most of my programs have been written in Spanish. Also most of them are old works and proyects written for my Uni.
 
-Here are some ideas to get you started:
+### I've Contributed to:
+Payday 2 Mods:
+WolfHud - https://github.com/Kamikaze94/WolfHUD
+PD2 Kill Feed - https://github.com/segabl/pd2-kill-feed
+Nepgearsy's Main Menu - https://github.com/mwSora/Nepgearsy-Main-Menu
+Sora HUD Reborn - https://github.com/mwSora/Sora-HUD-Reborn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+DDLC Mods:
+Forever and Ever - https://github.com/AlexanDDOS/fae-mod
+
+
+![ElReyZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElReyZero&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)
