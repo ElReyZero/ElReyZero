@@ -19,4 +19,9 @@ Sora HUD Reborn - https://github.com/mwSora/Sora-HUD-Reborn
 Forever and Ever - https://github.com/AlexanDDOS/fae-mod
 
 
-![ElReyZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElReyZero&count_private=true&show_icons=true&include_all_commits=true&theme=graywhite)
+[![ElReyZero's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElReyZero&count_private=true)
+)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyZero)](https://github.com/anuraghazra/github-readme-stats)
+
