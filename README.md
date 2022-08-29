@@ -37,3 +37,4 @@ Forever and Ever - https://github.com/AlexanDDOS/fae-mod
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElReyZero&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ElReyZero&hide_border=true)](https://git.io/streak-stats)
