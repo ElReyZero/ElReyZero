@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm ElReyZero ![alt text](https://cdn.frankerfacez.com/emoticon/457124/1)
 
-I'm studying Systems Engineering and Software Development, I know Python, Java and a bit of C. I like to contribute to translations and bug fixing for mods and projects of games that I like.
+I'm studying Systems Engineering and Software Development, I know Python, Java, JavaScript/TypeScript and a bit of C. I like to contribute to translations and bug fixing for mods and projects of games that I like.
 I'm Colombian, so if you don't understand some of my repos, it might be because most of my programs have been written in Spanish. Also most of them are old works and proyects written for my Uni.
 
 ## I've Contributed to:
