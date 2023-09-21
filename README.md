@@ -4,6 +4,12 @@ I'm studying Systems Engineering and Software Development, I know Python, Java, 
 I'm Colombian, so if you don't understand some of my repos, it might be because most of my programs have been written in Spanish. Also most of them are old works and proyects written for my Uni.
 
 ## I've Contributed to:
+
+
+### [Langchain](https://github.com/langchain-ai/langchain)
+- Added a prompt template parameter to qa with structure chains: https://github.com/langchain-ai/langchain/pull/6495
+- Added optional skip_empty parameter to OpenAIEmbeddings: https://github.com/langchain-ai/langchain/pull/10196
+
 ### POG Bot Turned into the BWAE Battle Bot
 This has been my biggest project/contribution as of yet.
 
