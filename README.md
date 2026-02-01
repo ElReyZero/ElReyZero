@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm ElReyZero ![alt text](https://cdn.frankerfacez.com/emoticon/457124/1)
 
 I'm a Systems and Computing Engineer. I know Python, Java, JavaScript/TypeScript and a bit of C. I like to contribute to translations and bug fixing for mods and projects of games that I like.
-I'm Colombian, so if you don't understand some of my repos, it might be because most of my programs have been written in Spanish. Also most of them are old works and proyects written for my Uni.
+I'm Colombian, so if you don't understand some of my repos, it might be because most of my programs have been written in Spanish. Currently I'm employed as a backend software engineer which is why I might not be very active here. In that sense, most of my repos are old works and proyects written for my undergraduate studies.
 
 ## I've Contributed to:
 
